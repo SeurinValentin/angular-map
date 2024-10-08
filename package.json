@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@types/leaflet-mouse-position": "^1.2.4"
+  },
+  "dependencies": {
+    "leaflet-mouse-position": "^1.2.0"
+  }
+}
